@@ -5,7 +5,10 @@ see our website : https://sites.google.com/view/auricle-robotics/home
 
 NOTES : 
 
-BEFORE MAKING A ROBOT PLAN IT'S CIRCUITS & PREPARE A CAD MODEL & MAKE THAT ROBOT :-)
+BEFORE MAKING A ROBOT, PLAN IT'S CIRCUITS & PREPARE A CAD MODEL & MAKE THAT ROBOT :-)
+
+rough practice codes : 
+
 
 
 
