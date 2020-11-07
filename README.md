@@ -8,6 +8,10 @@ NOTES :
 
 BEFORE MAKING A ROBOT, PLAN IT'S CIRCUITS & PREPARE A CAD MODEL & MAKE THAT ROBOT :-)
 
+make auricle a humanoid robot named after this startup called AURICLE ROBOTICS!
+
+
+
 
 
 
