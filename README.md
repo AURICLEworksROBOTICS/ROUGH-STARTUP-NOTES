@@ -8,6 +8,8 @@ all notes are just raw you can analyse them & work on it :)
 
 CLICK HERE TO SEE OUR ARCHIVE LIBRARY : https://sites.google.com/view/auriclearchivelibrary/home
 
+here you can see all our public repositories : https://github.com/AURICLEworksROBOTICS?tab=repositories
+
 NOTES : 
 
 BEFORE MAKING A ROBOT, PLAN IT'S CIRCUITS & PREPARE A CAD MODEL & MAKE THAT ROBOT :-)
