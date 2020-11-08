@@ -4,6 +4,10 @@ see our website : https://sites.google.com/view/auricle-robotics/home
 
 all notes are just raw you can analyse them & work on it :)
 
+
+
+CLICK HERE TO SEE OUR ARCHIVE LIBRARY : https://sites.google.com/view/auriclearchivelibrary/home
+
 NOTES : 
 
 BEFORE MAKING A ROBOT, PLAN IT'S CIRCUITS & PREPARE A CAD MODEL & MAKE THAT ROBOT :-)
