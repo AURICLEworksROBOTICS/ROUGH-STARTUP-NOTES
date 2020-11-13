@@ -17,10 +17,10 @@ BEFORE MAKING A ROBOT, PLAN IT'S CIRCUITS & PREPARE A CAD MODEL & MAKE THAT ROBO
 make auricle a humanoid robot named after this startup called AURICLE ROBOTICS!
 
 we drafted nocovo project for a while until juju develops & 
-humanoid is being prepared !
 
 (plans may also change)
 
+Humanoid is being prepared !
 
 
 
