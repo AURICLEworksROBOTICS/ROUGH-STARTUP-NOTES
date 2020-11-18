@@ -4,7 +4,7 @@ see our website  : https://sites.google.com/view/auricle-robotics/home
 
 all notes are just raw you can analyse them & work on it   :-)
 
-
+click this link to see 
 
 CLICK HERE TO SEE OUR ARCHIVE LIBRARY : https://sites.google.com/view/auriclearchivelibrary/home
 
