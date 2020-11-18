@@ -2,7 +2,7 @@
 THIS REPOSITORY HAS SOME OF OUR ROUGH NOTES YOU CAN ANALYSE THIS TO LEARN MORE :-)
 see our website  : https://sites.google.com/view/auricle-robotics/home
 
-all notes are just raw you can analyse them & work on it  :-)
+all notes are just raw you can analyse them & work on it   :-)
 
 
 
