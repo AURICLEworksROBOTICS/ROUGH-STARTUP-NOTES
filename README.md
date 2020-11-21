@@ -20,7 +20,10 @@ we drafted nocovo project for a while until juju develops &
 
 (plans may also change)
 
-Humanoid is being prepared !
+Humanoid is being prepared !!!!!!
+
+
+
 
 
 
